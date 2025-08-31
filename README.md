@@ -29,7 +29,7 @@
 <div align="left">
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=castroqzw&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=000000" alt="castro dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=castroqzw&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=000000" alt=Castro dev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castroqzw&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=000000" />
 </div>
   
